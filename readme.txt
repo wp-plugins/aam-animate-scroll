@@ -1,8 +1,8 @@
-=== AAM Animate Scroll Wordpress ===
+=== Rajoshik Animate Scroll Wordpress ===
 
 Contributors: Md. Abdullah Al Mahim
 
-Donate link: http://aamahin.me
+Donate link: http://fb.com/a.a.mahim
 
 Tags: widget, plugin, sidebar, scroll to top plugins, back to to, wordpress plugin back to top
 
