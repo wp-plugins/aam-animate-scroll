@@ -67,7 +67,7 @@ This plugin will add a scroll to top button with different Animation and speed.
  - After all change Click on The Save Changes for save your setting. 
 
 
-- Here is Live Demo: http://plugins.aamahin.me/aam-animate-scroll-wordpress/
+- Here is Live Demo: http://rajoshik.com/animate-scroll/
 
 == Installation ==
 
@@ -76,14 +76,14 @@ This plugin will add a scroll to top button with different Animation and speed.
 - After Successfully Install You can See A New Menu Named AAM Scroll. From Where you can change your settings.  
 
 == Frequently Asked Questions ==
-- For more Details Please See: http://plugins.aamahin.me/aam-animate-scroll-wordpress/
+- For more Details Please See: http://rajoshik.com/themes/rajoshik-animate-scroll/
 
 == Screenshots ==
 1. Main Site Example
 2. Admin Panel Setting Page
 
 == Support ==
-http://plugins.aamahin.me/aam-animate-scroll-wordpress/
+http://rajoshik.com/themes/rajoshik-animate-scroll/
 
 == Changelog ==
 
