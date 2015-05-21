@@ -1,4 +1,4 @@
-=== Rajoshik Animate Scroll Wordpress ===
+=== VainCode Animate Scroll Wordpress ===
 
 Contributors: Md. Abdullah Al Mahim
 
@@ -19,7 +19,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin will add a scroll to top button with different Animation and speed. 
 
 == Description ==
-- AAM Animate Scroll Wordpress is a Scroll Plugin for Wordpress. This Plugin will be enable to user back to top of website with a nice scroll animation.
+- VainCode Animate Scroll To Top is a Scroll Plugin for Wordpress. This Plugin will be enable to user back to top of website with a nice scroll animation.
 
 - You can Select Scroll Animation Style, Change Scroll Text, background color, Scroll position etc by using the option of this plugin. In this documentation, we'll cover enough areas of the option panel for you to control the plugin effectively
 
@@ -67,7 +67,7 @@ This plugin will add a scroll to top button with different Animation and speed.
  - After all change Click on The Save Changes for save your setting. 
 
 
-- Here is Live Demo: http://rajoshik.com/animate-scroll/
+- Here is Live Demo: http://demo.vaincode.com/animate-scroll-to-top
 
 == Installation ==
 
@@ -76,17 +76,17 @@ This plugin will add a scroll to top button with different Animation and speed.
 - After Successfully Install You can See A New Menu Named AAM Scroll. From Where you can change your settings.  
 
 == Frequently Asked Questions ==
-- For more Details Please See: http://rajoshik.com/themes/rajoshik-animate-scroll/
+- For more Details Please See: http://market.vaincode.com/product/animate-scroll-wordpress/
 
 == Screenshots ==
 1. Main Site Example
 2. Admin Panel Setting Page
 
 == Support ==
-http://rajoshik.com/themes/rajoshik-animate-scroll/
+http://support.vaincode.com/
 
 == Changelog ==
 
 == Upgrade Notice == 
 
-1.00
+1.01
